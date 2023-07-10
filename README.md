@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="display:flex">
+<p style="margin-right: 2%;"><img style="padding:6%;"src="https://komarev.com/ghpvc/?username=ishrita08&label=Profile%20views&color=0e75b6&style=flat" alt="ishh" /> </p>
+<!-- <a href="https://twitter.com/Riyaaaa_Verma" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=TWITTER&color=493252&style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
+</div>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ishrita08&theme=dark" alt="ishh streak" /></p>
